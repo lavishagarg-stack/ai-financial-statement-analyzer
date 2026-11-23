@@ -3,7 +3,6 @@
 Reads a company's annual report (PDF) and produces a structured financial analysis, with every number linked to its source page.
 <img width="1810" height="697" alt="screenshot 1" src="https://github.com/user-attachments/assets/a32d95a0-12d7-401e-9fed-f46049bb45b4" />
 <img width="1817" height="648" alt="screenshot 2 exctracted sources" src="https://github.com/user-attachments/assets/3194d09b-24a7-4035-a5f0-f7525cdbd8bf" />
-
 ## What it does
 
 - Extracts key figures from the financial statements (revenue, profit, borrowings, working capital, operating cash flow)
