@@ -2,9 +2,9 @@
 
 Reads a company's annual report (PDF) and produces a structured financial analysis, with every number linked to its source page.
 
-![Analysis table](https://github.com/lavishagarg-stack/ai-financial-statement-analyzer/blob/main/SCREENSHOT%202.png?raw=true)
+![Analysis table](https://github.com/lavishagarg-stack/ai-financial-statement-analyzer/blob/main/analysis.png?raw=true)
 
-![Extracted data with sources](https://github.com/lavishagarg-stack/ai-financial-statement-analyzer/blob/main/SCREENSHOT%203.png?raw=true)
+![Extracted data with sources](https://github.com/lavishagarg-stack/ai-financial-statement-analyzer/blob/main/sources.png?raw=true)
 
 ## What it does
 
